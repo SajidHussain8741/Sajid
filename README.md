@@ -1,4 +1,4 @@
 # Sajid
 This is my first Git Repository.
 <br>
-Author name is Sajid Hussain
+Author name is Sajid (Hussain)
